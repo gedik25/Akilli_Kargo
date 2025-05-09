@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/javafx-sdk-23.0.1/lib" />
+      <root url="file://$USER_HOME$/Desktop/Dosya/javafx-sdk-21/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Desktop/Dosya/javafx-sdk-21/lib" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Dosya/javafx-sdk-21/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/javafx-sdk-23.0.1/lib" recursive="false" />
+  </library>
+</component>
