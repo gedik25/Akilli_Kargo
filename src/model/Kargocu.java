@@ -14,6 +14,6 @@ public void kargoTeslim(){
     //buton icin ozellestirilecek.
     System.out.println("Kargolar teslim edildi.");
 }
-
+//deneme degisikligi
 
 }
